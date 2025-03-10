@@ -269,4 +269,4 @@ To continue building on your knowledge, explore the next lab on [Network Securit
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated.
 
-☎️ For questions or to connect you can message me at: www.linkedin.com/in/vincentchachere
+☎️ For questions or to connect you can message me at: https://www.linkedin.com/in/davidclarkeit/
